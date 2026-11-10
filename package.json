@@ -1,0 +1,8 @@
+{
+  "name": "serendibgo",
+  "private": true,
+  "description": "Runs the backend and the Expo app together for testing on a phone",
+  "scripts": {
+    "dev": "node scripts/dev.js"
+  }
+}

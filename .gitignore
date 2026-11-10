@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.test
+backend/dist
+backend/uploads/*
+!backend/uploads/.gitkeep
+mobile/.expo
+mobile/dist
+mobile/web-build
+*.log
+.DS_Store
